@@ -24,6 +24,5 @@ export default {
 };
 </script>
 
-<s
-        ResultTexttyle>
+<style>
 </style>
